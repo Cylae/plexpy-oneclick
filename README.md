@@ -5,10 +5,6 @@ PlexPy installer for Debian 8
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
 ```
 cd /plexpy-oneclick/
 chmod +x plexpy-oneclick.sh
