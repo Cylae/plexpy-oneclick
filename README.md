@@ -6,9 +6,9 @@ PlexPy installer for Debian 8
 ### Installing
 
 ```
-cd /plexpy-oneclick/
+cd plexpy-oneclick/
 chmod +x plexpy-oneclick.sh
-./plexpy-onelick.sh
+./plexpy-oneclick.sh
 ```
 
 ## Authors
