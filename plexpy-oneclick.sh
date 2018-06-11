@@ -5,7 +5,7 @@ echo Moving to /opt
 cd /opt
 
 echo Cloning PlexPy
-https://github.com/Tautulli/Tautulli.git /opt/tautulli
+git clone https://github.com/Tautulli/Tautulli.git /opt/tautulli
 
 echo Moving to /opt/plexpy
 cd /opt/tautulli
